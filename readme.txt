@@ -1,3 +1,3 @@
-Abot程序框架基于CI，是一款很简单的自动聊天并成长的PHP程序。
+Abot锟斤拷锟斤拷锟斤拷锟杰伙拷锟斤拷CI锟斤拷锟斤拷一锟斤拷锟杰简单碉拷锟皆讹拷锟斤拷锟届并锟缴筹拷锟斤拷PHP锟斤拷锟斤拷锟斤拷
 
-首先导入sql.sql到数据库中，然后修改application/config/database.php中的数据库账号和密码即可运行。
+锟斤拷锟饺碉拷锟斤拷sql.install锟斤拷锟斤拷锟捷匡拷锟叫ｏ拷然锟斤拷锟睫革拷application/config/database.php锟叫碉拷锟斤拷锟捷匡拷锟剿号猴拷锟斤拷锟诫即锟斤拷锟斤拷锟叫★拷
